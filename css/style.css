@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+}
+body{
+    width: 960px;
+    height: auto;
+}
+.nav{
+    background-color: beige;
+    height: 40px;
+    width: 100%;
+}
+.nav ul{
+    text-align: right;
+    padding: 10px;
+}
+.nav ul li{
+    display: inline;
+    margin-left: 10px;
+}
+.nav ul li:hover{
+    background: brown;
+    padding: 10px;
+}
+.nav ul li a{
+    text-decoration: none;
+}
+.nav ul li a:hover{
+    color: rgb(255, 255, 255);
+}
