@@ -40,9 +40,11 @@ body {
 .banner {
     width: 100%;
     height: 500px;
+    background-image: url(../images/img\ \(2\).jpg);
+    background-repeat: no-repeat;
 }
 
 img {
     width: 100%;
-    height: 500px;
+    height: 400px;
 }
